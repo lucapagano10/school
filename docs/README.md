@@ -14,6 +14,11 @@ To build this future, we all need to understand how it works, inside and out. Th
 !!! Ready to shape tomorrow's markets? Let's rock. 🚀
 !!!
 
+## Course Content
+
+### [Chapter 1: A Short Story on Futures](./chapter1/README.md)
+From the ancient grain markets to modern perpetual contracts, discover how futures trading evolved and why it matters for the future of finance.
+
 ## Core Topics
 
 - [Trading Fundamentals](./trading/fundamentals.md)
