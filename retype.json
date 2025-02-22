@@ -1,7 +1,7 @@
 {
   "input": "./docs",
   "output": ".retype",
-  "url": "https://lucapagano10.github.io/cursor_roxprojects/",
+  "url": "https://lucapagano10.github.io/school/",
   "branding": {
     "title": "School of Roxom",
     "label": "Docs"
@@ -9,7 +9,7 @@
   "links": [
     {
       "text": "GitHub",
-      "link": "https://github.com/lucapagano10/cursor_roxprojects"
+      "link": "https://github.com/lucapagano10/school"
     }
   ],
   "footer": {

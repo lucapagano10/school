@@ -4,7 +4,7 @@ We'd love to hear from you! Here's how you can reach us.
 
 ## Get in Touch
 
-- **GitHub**: [Visit our repository](https://github.com/lucapagano10/cursor_roxprojects)
+- **GitHub**: [Visit our repository](https://github.com/lucapagano10/school)
 - **Email**: [contact@schoolofroxom.com](mailto:contact@schoolofroxom.com)
 
 ## Community

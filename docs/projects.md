@@ -15,4 +15,4 @@ A space for students to collaborate and share knowledge.
 
 ## Get Involved
 
-Interested in contributing to our projects? Check out our [GitHub repository](https://github.com/lucapagano10/cursor_roxprojects) or contact us for more information.
+Interested in contributing to our projects? Check out our [GitHub repository](https://github.com/lucapagano10/school) or contact us for more information.
