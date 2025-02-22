@@ -1,0 +1,17 @@
+{
+  "input": "./docs",
+  "output": ".retype",
+  "branding": {
+    "title": "School of Roxom",
+    "label": "Docs"
+  },
+  "links": [
+    {
+      "text": "GitHub",
+      "link": "https://github.com/lucapagano10/cursor_roxprojects"
+    }
+  ],
+  "footer": {
+    "copyright": "© Copyright {{ year }}. All rights reserved."
+  }
+}
