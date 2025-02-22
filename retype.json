@@ -1,6 +1,7 @@
 {
   "input": "./docs",
   "output": ".retype",
+  "url": "https://lucapagano10.github.io/cursor_roxprojects/",
   "branding": {
     "title": "School of Roxom",
     "label": "Docs"
