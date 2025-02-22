@@ -1,7 +1,7 @@
 ---
 label: "Wrapping Up: The Foundation"
-icon: goal
-order: 140
+icon: target
+order: 110
 ---
 
 # Wrapping Up: The Foundation for Roxom Greatness

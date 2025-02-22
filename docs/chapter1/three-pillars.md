@@ -1,7 +1,7 @@
 ---
 label: "Part 2: The Three Pillars"
 icon: stack
-order: 130
+order: 120
 ---
 
 # Part 2: The Three Pillars of Derivatives

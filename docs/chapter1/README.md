@@ -10,7 +10,7 @@ Welcome to the first chapter of your journey into the future of finance. Here we
 
 ## Chapter Overview
 
-1. [From Grain Markets to Perpetual Realms](./grain-to-perpetual.md)
-2. [Part 1: How Futures Evolved (and Why)](./futures-evolution.md)
-3. [Part 2: The Three Pillars of Derivatives](./three-pillars.md)
-4. [Wrapping Up: The Foundation for Roxom Greatness](./foundation.md)
+1. [Wrapping Up: The Foundation for Roxom Greatness](./foundation.md)
+2. [Part 2: The Three Pillars of Derivatives](./three-pillars.md)
+3. [Part 1: How Futures Evolved (and Why)](./futures-evolution.md)
+4. [From Grain Markets to Perpetual Realms](./grain-to-perpetual.md)

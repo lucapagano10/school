@@ -1,7 +1,7 @@
 ---
 label: "Part 1: How Futures Evolved"
 icon: git-branch
-order: 120
+order: 130
 ---
 
 # Part 1: How Futures Evolved (and Why)
