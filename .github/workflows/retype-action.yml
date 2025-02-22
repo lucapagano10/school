@@ -19,15 +19,15 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: retypeapp/action-build@v3
+      - uses: retypeapp/action-build@latest
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+      - uses: actions/configure-pages@v4
+
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: .retype
 
-      - name: Deploy to GitHub Pages
+      - uses: actions/deploy-pages@v4
         id: deployment
-        uses: actions/deploy-pages@v2
