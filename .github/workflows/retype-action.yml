@@ -8,17 +8,30 @@ on:
 jobs:
   publish:
     name: Publish to retype branch
-
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-      - uses: retypeapp/action-build@latest
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-      - uses: retypeapp/action-github-pages@latest
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Retype website
+        uses: retypeapp/action-build@latest
+        with:
+          license: ${{ secrets.RETYPE_LICENSE }}
+
+      - name: Deploy to GitHub Pages
+        uses: retypeapp/action-github-pages@latest
         with:
           update-branch: true
+          branch: retype
