@@ -14,27 +14,10 @@ To build this future, we all need to understand how it works, inside and out. Th
 !!! Ready to shape tomorrow's markets? Let's rock. 🚀
 !!!
 
-## Quick Navigation
+## Core Topics
 
-- [📊 Trading Fundamentals](./trading/fundamentals.md) - Master the basics of trading in a BTC world
-- [📈 Technical Analysis](./trading/technical-analysis.md) - Learn to read and interpret market signals
-- [⛓️ On-Chain Insights](./trading/on-chain.md) - Understand blockchain data and market dynamics
-- [💹 Derivatives](./trading/derivatives.md) - Explore advanced trading instruments
-- [🌐 BTC Ecosystem](./ecosystem/overview.md) - Discover the future of finance
-
-## Key Features
-
-:::features
-- 🎯 **Focused Learning**: Concise, practical lessons designed for real-world application
-- 💡 **Deep Insights**: Expert knowledge from industry leaders and practitioners
-- 🔄 **Regular Updates**: Stay current with the latest developments in BTC markets
-- 🛠️ **Hands-on Practice**: Interactive exercises and real market examples
-- 🌍 **Global Perspective**: Understanding both traditional and crypto markets
-:::
-
-## Get Started
-
-Choose your path:
-1. [Complete Beginner? Start Here →](./getting-started/basics.md)
-2. [Already Trading? Level Up →](./advanced/strategies.md)
-3. [Want to Build? Developer Docs →](./developers/api.md)
+- [Trading Fundamentals](./trading/fundamentals.md)
+- [Technical Analysis](./trading/technical-analysis.md)
+- [On-Chain Insights](./trading/on-chain.md)
+- [Derivatives](./trading/derivatives.md)
+- [BTC Ecosystem](./ecosystem/overview.md)
