@@ -1,3 +1,8 @@
+---
+label: Home
+icon: home
+---
+
 # Welcome to School of Roxom
 
 Welcome to our documentation site! Here you'll find everything you need to know about our projects and resources.

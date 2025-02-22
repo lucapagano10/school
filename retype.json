@@ -2,6 +2,7 @@
   "input": "./docs",
   "output": ".retype",
   "url": "https://lucapagano10.github.io/school/",
+  "base": "/school/",
   "branding": {
     "title": "School of Roxom",
     "label": "Docs"
