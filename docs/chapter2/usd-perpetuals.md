@@ -1,7 +1,7 @@
 ---
 label: "USD-Denominated Perpetuals"
 icon: history
-order: 220
+order: 250
 ---
 
 # A Quick Recap of "Normal" USD-Denominated Perpetual Futures

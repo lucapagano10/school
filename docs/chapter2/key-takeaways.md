@@ -1,7 +1,7 @@
 ---
 label: "Key Takeaways"
 icon: check
-order: 260
+order: 210
 ---
 
 # Key Takeaways

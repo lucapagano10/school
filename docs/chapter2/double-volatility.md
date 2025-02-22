@@ -1,7 +1,7 @@
 ---
 label: "Double Volatility and More"
 icon: alert
-order: 240
+order: 230
 ---
 
 # Why This Matters: Double Volatility and More

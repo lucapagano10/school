@@ -1,7 +1,7 @@
 ---
 label: "Practical Implications"
 icon: gear
-order: 250
+order: 220
 ---
 
 # Practical Implications for Roxtars

@@ -1,7 +1,7 @@
 ---
 label: "BTC-Denominated Perpetuals"
 icon: rocket
-order: 230
+order: 240
 ---
 
 # Enter the BTC-Denominated Perpetual Futures
