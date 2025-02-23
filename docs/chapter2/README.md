@@ -1,7 +1,7 @@
 ---
 label: "Chapter 2: The BTC-Denominated Futures Paradigm"
 icon: book
-order: 200
+order: 400
 ---
 
 # CHAPTER 2: THE BTC-DENOMINATED FUTURES PARADIGM

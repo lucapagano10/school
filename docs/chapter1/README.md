@@ -1,7 +1,7 @@
 ---
 label: "Chapter 1: A Short Story on Futures"
 icon: book
-order: 100
+order: 500
 ---
 
 # CHAPTER 1: A SHORT STORY ON FUTURES
