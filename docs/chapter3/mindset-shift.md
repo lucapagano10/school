@@ -1,7 +1,7 @@
 ---
 label: "The Mindset Shift"
 icon: sync
-order: 340
+order: 330
 ---
 
 # The Mindset Shift: From USD to BTC Denomination

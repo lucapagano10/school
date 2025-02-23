@@ -1,7 +1,7 @@
 ---
 label: "Building a Position"
 icon: workflow
-order: 350
+order: 320
 ---
 
 # Building a Real OIL/BTC Perpetual Futures Position
