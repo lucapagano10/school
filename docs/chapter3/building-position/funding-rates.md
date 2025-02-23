@@ -1,7 +1,7 @@
 ---
 label: "Funding Rates"
 icon: sync
-order: 357
+order: 397
 ---
 
 # Funding Rates
