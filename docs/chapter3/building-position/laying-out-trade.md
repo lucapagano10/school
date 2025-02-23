@@ -1,7 +1,7 @@
 ---
 label: "Laying Out the Trade"
 icon: workflow
-order: 351
+order: 355
 ---
 
 # Laying Out the Trade

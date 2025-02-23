@@ -1,7 +1,7 @@
 ---
 label: "Strategy Tips"
 icon: light-bulb
-order: 355
+order: 359
 ---
 
 # Strategy Tips
