@@ -18,11 +18,3 @@ To build this future, we all need to understand how it works, inside and out. Th
 
 ### [Chapter 1: A Short Story on Futures](./chapter1/README.md)
 From the ancient grain markets to modern perpetual contracts, discover how futures trading evolved and why it matters for the future of finance.
-
-## Core Topics
-
-- [Trading Fundamentals](./trading/fundamentals.md)
-- [Technical Analysis](./trading/technical-analysis.md)
-- [On-Chain Insights](./trading/on-chain.md)
-- [Derivatives](./trading/derivatives.md)
-- [BTC Ecosystem](./ecosystem/overview.md)
