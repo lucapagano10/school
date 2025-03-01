@@ -5,14 +5,22 @@ label: Risks & Watch-Outs
 
 # Risks & Watch-Outs
 
-_This is a placeholder for the content about the risks and watch-outs associated with MicroStrategy as a Bitcoin investment vehicle._
+## 1. BTC Volatility
 
-## Key Points to Cover:
+Since MSTR is basically a **leveraged reflection** of BTC, price swings can be even wilder.
 
-- Corporate governance risks and key person dependency
-- Regulatory risks specific to MicroStrategy
-- The risk of NAV premium contraction or reversal
-- Debt structure and leverage risks
-- Software business performance risks
-- Market liquidity and volatility considerations
-- Comparison of risks with direct Bitcoin holdings
+## 2. Regulatory Overhang
+
+Accounting rules, SEC scrutiny, or new crypto regulations could hamper MSTR's strategy or compress that NAV premium.
+
+## 3. Premium Collapse
+
+A major risk is if the market stops awarding MSTR that hefty premium. If confidence vanishes, MSTR could tumble even if BTC is stable.
+
+## 4. Dilution Timed Poorly
+
+If MSTR issues shares at the wrong time (i.e., the stock is undervalued relative to BTC), it hurts existing shareholders more than it helps.
+
+## 5. Competitors
+
+Tesla, Block, or future corporate BTC whales could reduce MSTR's unique "largest corporate BTC holder" brand advantage.

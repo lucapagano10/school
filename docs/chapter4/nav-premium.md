@@ -5,13 +5,24 @@ label: The Magic Ingredient: NAV Premium
 
 # The Magic Ingredient: NAV Premium
 
-_This is a placeholder for the content about the NAV premium of MicroStrategy._
+The **Net Asset Value (NAV)** of MicroStrategy can be roughly thought of as:
 
-## Key Points to Cover:
+MSTR's BTC Holdings+Value of the Operating Software Business–Any Debt
 
-- What is Net Asset Value (NAV) and how it applies to MicroStrategy
-- How to calculate MicroStrategy's Bitcoin NAV
-- The historical premium/discount of MSTR to its Bitcoin holdings
-- Why the premium exists and what drives it
-- How the premium compares to other Bitcoin investment vehicles
-- The significance of the premium in BTC terms rather than USD terms
+Then we compare that to the company's market cap or share price.
+
+**MSTR's share price often trades at a premium** to just the per-share value of the BTC it holds. Sometimes you'll see it trade 1.2x–1.7x (or even more) above the value of those coins. That difference is the **NAV premium**.
+
+## Why Does This Premium Exist?
+
+1. **Leveraged Exposure**
+
+   Investors looking for "BTC in equity form" will bid up MSTR as a quicker or regulated approach, creating a premium over the raw BTC holdings.
+
+2. **Share Issuances**
+
+   MSTR has repeatedly raised capital (via equity or convertible bonds) **at or above** this premium. Then they buy more BTC with the proceeds. In a bullish environment, they might snag **more** BTC per share than they dilute. It's like a self-reinforcing cycle... if the market **keeps** believing in the strategy.
+
+3. **MSTR's Core Business**
+
+   The old-school software analytics side is still active—giving at least some fundamental floor in addition to the BTC pile.

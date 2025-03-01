@@ -5,13 +5,13 @@ label: MSTR as a Quasi-Bitcoin Holding Company
 
 # MSTR: The Quasi-Bitcoin Holding Company
 
-_This is a placeholder for the content about MicroStrategy as a quasi-Bitcoin holding company._
+## Background
 
-## Key Points to Cover:
+* Once upon a time, MicroStrategy was a straightforward enterprise software and analytics firm.
+* In 2020, the company's CEO (Michael Saylor) steered their treasury into Bitcoin, going all-in on the "hardest asset" narrative.
+* Fast forward to today: MSTR has become a kind of **leveraged bet** on BTC. The software side still exists, but the real story is the pile of Bitcoin MSTR now holds.
 
-- MicroStrategy's evolution into a Bitcoin-focused company
-- Michael Saylor's Bitcoin strategy and vision
-- The company's Bitcoin acquisition history and strategy
-- How MicroStrategy's business model has changed
-- The structure of MicroStrategy as a hybrid software company and Bitcoin treasury
-- Comparison with pure Bitcoin ETFs and other Bitcoin exposure vehicles
+## Why Does That Matter to Us as BTC-Denominated Investors?
+
+* If you're bullish on BTC but want a **potentially amplified** way to play that upside (and you're okay with extra risk), MSTR can be interesting because their share price tends to move **2x–2.7x** for every 1% move in BTC.
+* This "high beta to Bitcoin" means when Bitcoin pumps, MSTR often pumps **harder**. However, it also means if BTC tanks, MSTR might go **down faster**.
