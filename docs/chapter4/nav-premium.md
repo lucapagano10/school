@@ -13,6 +13,9 @@ Then we compare that to the company's market cap or share price.
 
 **MSTR's share price often trades at a premium** to just the per-share value of the BTC it holds. Sometimes you'll see it trade 1.2x–1.7x (or even more) above the value of those coins. That difference is the **NAV premium**.
 
+![MSTR NAV Multiple Over Time](/images/chapter4/mstr-nav-multiple.png)
+*Chart showing MSTR's NAV multiple fluctuations from 2020 to 2025, with significant premium growth in 2024*
+
 ## Why Does This Premium Exist?
 
 1. **Leveraged Exposure**
