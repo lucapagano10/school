@@ -13,6 +13,13 @@ label: MSTR vs. Just Holding BTC
 | Upside | Higher beta if BTC surges; can compound over time | Matches BTC price changes 1:1 | Tracks BTC price with small spread |
 | Dilution Risk | Yes, but can be offset by more BTC purchases | N/A | N/A (though creation/redemption can affect price slightly) |
 
+## Is it Cheap-ish or Overvalued? 
+By visualizing the relationship between the two of them, it hekps us understand where are we in the relationship of MSTR/BTC valuation cycle...
+
+<img src="https://raw.githubusercontent.com/lucapagano10/school/main/docs/images/chapter4/scatter.png?v=1" alt="MSTR Virtuous Cycle Flywheel" width="800">
+
+
+
 ## Key Takeaway
 
 * If BTC goes **up**, MSTR might multiply those gains for shareholders.
