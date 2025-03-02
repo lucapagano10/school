@@ -1,5 +1,5 @@
 ---
-order: 1000
+order: 9
 label: Why Look at Companies "Denominated" in BTC?
 ---
 

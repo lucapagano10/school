@@ -1,5 +1,5 @@
 ---
-order: 700
+order: 6
 label: The "Virtuous Cycle" Flywheel
 ---
 

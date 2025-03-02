@@ -1,5 +1,5 @@
 ---
-order: 900
+order: 8
 label: MSTR: The Quasi-Bitcoin Holding Company
 ---
 

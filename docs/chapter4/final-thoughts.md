@@ -1,5 +1,5 @@
 ---
-order: 300
+order: 2
 label: Final Thoughts
 ---
 

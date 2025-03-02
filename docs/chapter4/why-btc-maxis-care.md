@@ -1,5 +1,5 @@
 ---
-order: 400
+order: 3
 label: So…Why might BTC-Maxis care?
 ---
 

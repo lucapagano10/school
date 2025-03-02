@@ -1,5 +1,5 @@
 ---
-order: 200
+order: 1
 label: Chapter 4
 icon: rocket
 ---
