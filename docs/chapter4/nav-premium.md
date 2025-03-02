@@ -1,6 +1,6 @@
 ---
 order: 7
-label: The Magic Ingredient: NAV Premium
+label: "The Magic Ingredient: NAV Premium"
 ---
 
 # The Magic Ingredient: NAV Premium

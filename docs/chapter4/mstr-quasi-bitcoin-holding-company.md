@@ -1,6 +1,6 @@
 ---
 order: 8
-label: MSTR: The Quasi-Bitcoin Holding Company
+label: "MSTR: The Quasi-Bitcoin Holding Company"
 ---
 
 # MSTR: The Quasi-Bitcoin Holding Company

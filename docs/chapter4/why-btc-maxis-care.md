@@ -1,6 +1,6 @@
 ---
 order: 3
-label: So…Why might BTC-Maxis care?
+label: "So…Why might BTC-Maxis care?"
 ---
 
 # So…Why might BTC-Maxis care?

@@ -1,6 +1,6 @@
 ---
-order: 1
-label: Chapter 4
+order: 200
+label: "Chapter 4: MicroStrategy in Bitcoin Terms—Analyzing a BTC-Denominated Company"
 icon: rocket
 ---
 
