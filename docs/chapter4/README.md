@@ -10,7 +10,16 @@ Welcome back, Roxtars! In this chapter, we're diving into how an equity can be v
 
 ## Contents
 
-<!-- The correct order of sections is as follows -->
+<!-- The correct order of sections with updated order values:
+1. Why Look at Companies "Denominated" in BTC? (order: 1000)
+2. MSTR: The Quasi-Bitcoin Holding Company (order: 900)
+3. The Magic Ingredient: NAV Premium (order: 800)
+4. The "Virtuous Cycle" Flywheel (order: 700)
+5. MSTR vs. Just Holding BTC (order: 600)
+6. Risks & Watch-Outs (order: 500)
+7. So…Why might BTC-Maxis care? (order: 400)
+8. Final Thoughts (order: 300)
+-->
 - [Why Look at Companies "Denominated" in BTC?](why-companies-denominated-in-btc.md)
 - [MSTR: The Quasi-Bitcoin Holding Company](mstr-quasi-bitcoin-holding-company.md)
 - [The Magic Ingredient: NAV Premium](nav-premium.md)
