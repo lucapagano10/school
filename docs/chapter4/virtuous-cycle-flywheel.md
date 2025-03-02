@@ -23,5 +23,5 @@ Ideally, the newly purchased BTC offsets or **exceeds** the share dilution. Esse
 ### 4. Repeat
 
 As long as the BTC bull run continues and the NAV premium stays high, MSTR can keep pulling this trick off. Over time, **each share might represent more and more total BTC** exposure.
-<img src="https://raw.githubusercontent.com/lucapagano10/school/main/docs/images/chapter4/scatter.png" alt="MSTR Virtuous Cycle Flywheel" width="800">
+<img src="https://raw.githubusercontent.com/lucapagano10/school/main/docs/images/chapter4/scatter.png?v=1" alt="MSTR Virtuous Cycle Flywheel" width="800">
 *Illustration of MicroStrategy's virtuous cycle flywheel mechanism*
