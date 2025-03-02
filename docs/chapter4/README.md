@@ -6,9 +6,7 @@ icon: rocket
 
 # Chapter 4: MicroStrategy in Bitcoin Terms—Analyzing a BTC-Denominated Company
 
-This chapter explores how to analyze companies through a Bitcoin-denominated lens, with a specific focus on MicroStrategy (MSTR) as a case study.
-
-We'll examine why viewing certain companies in BTC terms can provide valuable insights, how MicroStrategy functions as a quasi-Bitcoin holding company, and the implications of its NAV premium. We'll also compare the performance of holding MSTR versus holding BTC directly, discuss the risks involved, and explore why this approach might be relevant even for Bitcoin maximalists.
+Welcome back, Roxtars! In this chapter, we're diving into how an equity can be viewed in BTC terms, and how this fresh lens changes the entire game. Our star example is MicroStrategy (MSTR), which has famously pivoted to become a "Bitcoin holding company" in disguise. Buckle up—this is where the analysis gets spicy!
 
 ## Contents
 

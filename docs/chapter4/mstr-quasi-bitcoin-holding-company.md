@@ -1,6 +1,6 @@
 ---
 order: 700
-label: MSTR as a Quasi-Bitcoin Holding Company
+label: MSTR: The Quasi-Bitcoin Holding Company
 ---
 
 # MSTR: The Quasi-Bitcoin Holding Company

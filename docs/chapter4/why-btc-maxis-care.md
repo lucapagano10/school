@@ -1,6 +1,6 @@
 ---
 order: 200
-label: Why BTC-Maxis Might Care
+label: So…Why might BTC-Maxis care?
 ---
 
 # So…Why might BTC-Maxis care?
