@@ -5,7 +5,7 @@ label: The "Virtuous Cycle" Flywheel
 
 # The "Virtuous Cycle" Flywheel
 
-![MSTR Virtuous Cycle Flywheel](/images/chapter4/Screenshot%202025-03-01%20at%208.37.06%20PM.png)
+<img src="/images/chapter4/Screenshot%202025-03-01%20at%208.37.06%20PM.png" alt="MSTR Virtuous Cycle Flywheel">
 *Illustration of MicroStrategy's virtuous cycle flywheel mechanism*
 
 ### 1. BTC Rallies → MSTR Share Price Usually Rallies More
@@ -23,7 +23,7 @@ Because the shares are valued richly, MSTR can issue them to the market.
 
 Ideally, the newly purchased BTC offsets or **exceeds** the share dilution. Essentially, "1 share out, but 1.2 shares worth of BTC in!"
 
-![MSTR BTC Acquisition Strategy](/images/chapter4/Screenshot%202025-03-01%20at%208.37.06%20PM.png)
+<img src="/images/chapter4/Screenshot%202025-03-01%20at%208.37.06%20PM.png" alt="MSTR BTC Acquisition Strategy">
 *Visualization of MSTR's Bitcoin acquisition strategy and its impact on share value*
 
 ### 4. Repeat
