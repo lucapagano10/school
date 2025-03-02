@@ -12,4 +12,4 @@ MicroStrategy is a prime candidate for this kind of analysis because:
 * They hold a **massive** amount of Bitcoin on their balance sheet (over 470k BTC, per the latest data).
 * Their share price often moves with—sometimes **faster** than—Bitcoin.
 
-In essence, MSTR offers an **equity ticker for BTC exposure**—plus some quirks we'll explore next.
+In essence, MSTR offers an **equity ticker for BTC exposure**, plus some quirks we'll explore next.

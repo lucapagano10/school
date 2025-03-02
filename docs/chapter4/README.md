@@ -1,10 +1,10 @@
 ---
 order: 200
-label: "Chapter 4: MicroStrategy in Bitcoin Terms—Analyzing a BTC-Denominated Company"
+label: "Chapter 4: MicroStrategy in Bitcoin Terms"
 icon: rocket
 ---
 
-# Chapter 4: MicroStrategy in Bitcoin Terms—Analyzing a BTC-Denominated Company
+# Chapter 4: MicroStrategy in Bitcoin Terms. Analyzing a BTC-Denominated Company
 
 Welcome back, Roxtars! In this chapter, we're diving into how an equity can be viewed in BTC terms, and how this fresh lens changes the entire game. Our star example is MicroStrategy (MSTR), which has famously pivoted to become a "Bitcoin holding company" in disguise. Buckle up, this is where the analysis gets spicy!
 

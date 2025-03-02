@@ -14,7 +14,8 @@
     }
   ],
   "footer": {
-    "copyright": "© Copyright {{ year }}. All rights reserved."
+    "copyright": "© Copyright {{ year }}. All rights reserved.",
+    "poweredByRetype": false
   },
   "scripts": [
     "/static/chat-widget.js"
