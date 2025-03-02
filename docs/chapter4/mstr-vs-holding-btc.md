@@ -19,6 +19,7 @@ By visualizing the relationship between the two of them, it hekps us understand 
 <img src="https://raw.githubusercontent.com/lucapagano10/school/main/docs/images/chapter4/scatter.png?v=1" alt="MSTR Virtuous Cycle Flywheel" width="800">
 
 
+#### We can conclude from our statistical analysis that MSTR is undervalued by almost 5% according to historical data.
 
 ## Key Takeaway
 
