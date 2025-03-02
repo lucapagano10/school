@@ -14,7 +14,7 @@ Welcome back, Roxtars! In this chapter, we're diving into how an equity can be v
 - [MSTR: The Quasi-Bitcoin Holding Company](mstr-quasi-bitcoin-holding-company.md)
 - [The Magic Ingredient: NAV Premium](nav-premium.md)
 - [The "Virtuous Cycle" Flywheel](virtuous-cycle-flywheel.md)
-- [Comparing MSTR vs. Just Holding BTC](mstr-vs-holding-btc.md)
+- [MSTR vs. Just Holding BTC](mstr-vs-holding-btc.md)
 - [Risks & Watch-Outs](risks-and-watchouts.md)
 - [So…Why might BTC-Maxis care?](why-btc-maxis-care.md)
 - [Final Thoughts](final-thoughts.md)
