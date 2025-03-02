@@ -13,11 +13,3 @@ Because MSTR's entire approach is to accumulate more coins using the market's pr
 
 But if the strategy backfires or if BTC's price momentum fizzles for a while, you could lose more BTC-value compared to just HODLing. **Higher risk, higher reward**.
 
-## Key Points to Cover:
-
-- The role of public companies in Bitcoin adoption
-- How MicroStrategy serves as a bridge between traditional finance and Bitcoin
-- The potential for other companies to follow MicroStrategy's model
-- How this approach can accelerate Bitcoin's path to becoming a global reserve asset
-- The educational value of MicroStrategy's public Bitcoin advocacy
-- Considerations for maximalists who typically only hold Bitcoin directly
