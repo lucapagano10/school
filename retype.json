@@ -19,9 +19,16 @@
     "links": []
   },
   "scripts": [
-    "/static/chat-widget.js"
+    "/static/chat-widget.js",
+    "/static/remove-footer.js"
   ],
   "stylesheets": [
     "/static/custom.css"
+  ],
+  "includes": [
+    {
+      "file": "/static/footer-override.html",
+      "target": "body"
+    }
   ]
 }

@@ -1,0 +1,49 @@
+<style>
+  /* Override the footer completely */
+  .footer, footer {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 1rem !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+    margin-top: 2rem !important;
+  }
+
+  .footer > *, footer > * {
+    display: none !important;
+  }
+
+  .footer::before, footer::before {
+    content: "© Copyright 2024. All rights reserved." !important;
+    display: block !important;
+    color: rgba(255, 255, 255, 0.5) !important;
+    font-size: 0.875rem !important;
+  }
+
+  /* Hide any Retype branding */
+  [class*="powered"], [class*="retype"], a[href*="retype"], img[src*="retype"], svg[class*="retype"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+  }
+</style>
+
+<script>
+  // Remove the footer completely and replace with our own
+  document.addEventListener('DOMContentLoaded', function() {
+    const footer = document.querySelector('.footer, footer');
+    if (footer) {
+      // Clear the footer
+      footer.innerHTML = '';
+
+      // Add only the copyright notice
+      const copyright = document.createElement('div');
+      copyright.textContent = '© Copyright 2024. All rights reserved.';
+      copyright.style.color = 'rgba(255, 255, 255, 0.5)';
+      copyright.style.fontSize = '0.875rem';
+
+      footer.appendChild(copyright);
+    }
+  });
+</script>
