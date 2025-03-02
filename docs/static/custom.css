@@ -1,0 +1,20 @@
+/* Hide the Retype footer */
+.footer-powered-by,
+.footer-powered-by-link,
+.footer-powered-by-logo,
+.footer-powered-by-text,
+[class*="footer-powered"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Additional selector to target the specific Retype footer */
+.footer > div:last-child {
+  display: none !important;
+}
