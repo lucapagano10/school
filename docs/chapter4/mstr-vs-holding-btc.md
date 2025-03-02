@@ -1,5 +1,5 @@
 ---
-order: 400
+order: 600
 label: MSTR vs. Just Holding BTC
 ---
 

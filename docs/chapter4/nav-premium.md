@@ -1,5 +1,5 @@
 ---
-order: 600
+order: 800
 label: The Magic Ingredient: NAV Premium
 ---
 
