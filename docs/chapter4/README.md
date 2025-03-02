@@ -10,6 +10,7 @@ Welcome back, Roxtars! In this chapter, we're diving into how an equity can be v
 
 ## Contents
 
+<!-- The correct order of sections is as follows -->
 - [Why Look at Companies "Denominated" in BTC?](why-companies-denominated-in-btc.md)
 - [MSTR: The Quasi-Bitcoin Holding Company](mstr-quasi-bitcoin-holding-company.md)
 - [The Magic Ingredient: NAV Premium](nav-premium.md)
