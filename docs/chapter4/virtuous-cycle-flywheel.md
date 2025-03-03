@@ -4,13 +4,13 @@ label: "The \"Virtuous Cycle\" Flywheel"
 ---
 
 # The "Virtuous Cycle" Flywheel
+<img src="https://raw.githubusercontent.com/lucapagano10/school/main/docs/images/chapter4/normalized_price_performance_1.png" alt="BTC and MSTR Price Correlation" width="800">
+*Chart showing how MSTR price movements amplify BTC price movements*
+
 
 ### 1. BTC Rallies → MSTR Share Price Usually Rallies More
 
 That higher share price can enlarge MSTR's NAV premium.
-
-<img src="https://raw.githubusercontent.com/lucapagano10/school/main/docs/images/chapter4/normalized_price_performance_1.png" alt="BTC and MSTR Price Correlation" width="800">
-*Chart showing how MSTR price movements amplify BTC price movements*
 
 ### 2. High Share Price = They Raise New Equity
 

@@ -16,10 +16,9 @@ label: MSTR vs. Just Holding BTC
 ## Is it Cheap-ish or Overvalued? 
 By visualizing the relationship between the two of them, it hekps us understand where are we in the relationship of MSTR/BTC valuation cycle...
 
-<img src="https://raw.githubusercontent.com/lucapagano10/school/main/docs/images/chapter4/scatter.png?v=1" alt="MSTR Virtuous Cycle Flywheel" width="800">
+![MSTR Virtuous Cycle Flywheel](/images/chapter4/scatter_model.png)
 
-
-#### We can conclude from our statistical analysis that MSTR is undervalued by almost 5% according to historical data.
+#### We can conclude from our statistical analysis that MSTR is undervalued by almost 25% according to historical data.
 
 ## Key Takeaway
 

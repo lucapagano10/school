@@ -3,11 +3,5 @@ order: 2
 label: Final Thoughts
 ---
 
-# Final Thoughts
 
-MicroStrategy is a prime example of a company pivoting to become almost entirely about Bitcoin.
-
-* **Upside**: Potentially bigger gains in a rising BTC market, fueled by that NAV premium "flywheel."
-* **Downside**: Potentially sharper losses in a downturn, plus vulnerabilities around share dilution and regulation.
-
-That's the trade-off in a nutshell. If you're comfortable with the volatility roller coaster, MSTR can be an exciting alternative to simply holding BTC. For more conservative folks (or those who can't handle the heartbreak of a bigger drawdown), direct BTC or a Bitcoin ETF might feel safer.
+This MicroStrategy deep dive is just the first taste of valuing a stock in BTC terms. Sure, MSTR practically is Bitcoin in corporate form, so the correlation is high. Next time, we’ll tackle a company with none BTC on its balance sheet, giving us a true yardstick for seeing how to think, measure, and evaluate in sats when the underlying business isn’t thinking in Bitcoin (yet). Until then, keep sharpening those BTC-denominated lenses!
