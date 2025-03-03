@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2025-03-03T00:42:28Z",
+  "created": "2025-03-03T01:08:51Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -127,6 +127,9 @@
     },
     {
       "path": "images/chapter4/scatter.png"
+    },
+    {
+      "path": "images/chapter4/screenshot-2025-03-01-at-8.37.06pm.png"
     },
     {
       "path": "index.html"
