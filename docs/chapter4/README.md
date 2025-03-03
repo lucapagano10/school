@@ -17,8 +17,7 @@ Welcome back, Roxtars! In this chapter, we're diving into how an equity can be v
 4. The "Virtuous Cycle" Flywheel (order: 700)
 5. MSTR vs. Just Holding BTC (order: 600)
 6. Risks & Watch-Outs (order: 500)
-7. So…Why might BTC-Maxis care? (order: 400)
-8. Final Thoughts (order: 300)
+7. Final Thoughts (order: 300)
 -->
 - [Why Look at Companies "Denominated" in BTC?](why-companies-denominated-in-btc.md)
 - [MSTR: The Quasi-Bitcoin Holding Company](mstr-quasi-bitcoin-holding-company.md)
@@ -26,5 +25,4 @@ Welcome back, Roxtars! In this chapter, we're diving into how an equity can be v
 - [The "Virtuous Cycle" Flywheel](virtuous-cycle-flywheel.md)
 - [MSTR vs. Just Holding BTC](mstr-vs-holding-btc.md)
 - [Risks & Watch-Outs](risks-and-watchouts.md)
-- [So…Why might BTC-Maxis care?](why-btc-maxis-care.md)
 - [Final Thoughts](final-thoughts.md)
