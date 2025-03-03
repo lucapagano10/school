@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lucapagano10.github.io/school/sitemap.xml.gz

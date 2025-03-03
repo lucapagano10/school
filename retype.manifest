@@ -1,0 +1,189 @@
+{
+  "version": "3.6.0",
+  "created": "2025-03-03T00:42:28Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "chapter1/foundation/index.html"
+    },
+    {
+      "path": "chapter1/futures-evolution/index.html"
+    },
+    {
+      "path": "chapter1/grain-to-perpetual/index.html"
+    },
+    {
+      "path": "chapter1/index.html"
+    },
+    {
+      "path": "chapter1/three-pillars/index.html"
+    },
+    {
+      "path": "chapter2/btc-perpetuals/index.html"
+    },
+    {
+      "path": "chapter2/double-volatility/index.html"
+    },
+    {
+      "path": "chapter2/index.html"
+    },
+    {
+      "path": "chapter2/introduction/index.html"
+    },
+    {
+      "path": "chapter2/key-takeaways/index.html"
+    },
+    {
+      "path": "chapter2/practical-implications/index.html"
+    },
+    {
+      "path": "chapter2/usd-perpetuals/index.html"
+    },
+    {
+      "path": "chapter3/building-position/funding-rates/index.html"
+    },
+    {
+      "path": "chapter3/building-position/index.html"
+    },
+    {
+      "path": "chapter3/building-position/laying-out-trade/index.html"
+    },
+    {
+      "path": "chapter3/building-position/liquidation/index.html"
+    },
+    {
+      "path": "chapter3/building-position/strategy-tips/index.html"
+    },
+    {
+      "path": "chapter3/building-position/understanding-pnl/index.html"
+    },
+    {
+      "path": "chapter3/data-glimpse/index.html"
+    },
+    {
+      "path": "chapter3/index.html"
+    },
+    {
+      "path": "chapter3/introduction/index.html"
+    },
+    {
+      "path": "chapter3/mindset-shift/index.html"
+    },
+    {
+      "path": "chapter3/why-oil/index.html"
+    },
+    {
+      "path": "chapter3/wrapping-up/index.html"
+    },
+    {
+      "path": "chapter4/final-thoughts/index.html"
+    },
+    {
+      "path": "chapter4/index.html"
+    },
+    {
+      "path": "chapter4/mstr-quasi-bitcoin-holding-company/index.html"
+    },
+    {
+      "path": "chapter4/mstr-vs-holding-btc/index.html"
+    },
+    {
+      "path": "chapter4/nav-premium/index.html"
+    },
+    {
+      "path": "chapter4/risks-and-watchouts/index.html"
+    },
+    {
+      "path": "chapter4/virtuous-cycle-flywheel/index.html"
+    },
+    {
+      "path": "chapter4/why-companies-denominated-in-btc/index.html"
+    },
+    {
+      "path": "images/chapter4/mstr_btc_purchases.png"
+    },
+    {
+      "path": "images/chapter4/mstr_buys.png"
+    },
+    {
+      "path": "images/chapter4/mstr-nav-multiple.png"
+    },
+    {
+      "path": "images/chapter4/nav_multiple_chart.png"
+    },
+    {
+      "path": "images/chapter4/normalized_price_performance_1.png"
+    },
+    {
+      "path": "images/chapter4/rolling_correlation.png"
+    },
+    {
+      "path": "images/chapter4/scatter_model.png"
+    },
+    {
+      "path": "images/chapter4/scatter.png"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static/chat-widget.js"
+    },
+    {
+      "path": "static/custom.css"
+    },
+    {
+      "path": "static/footer-override.html"
+    },
+    {
+      "path": "static/remove-footer.js"
+    }
+  ]
+}

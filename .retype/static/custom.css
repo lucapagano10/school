@@ -1,0 +1,56 @@
+/* Hide the Retype footer - Aggressive approach */
+.footer-powered-by,
+.footer-powered-by-link,
+.footer-powered-by-logo,
+.footer-powered-by-text,
+[class*="footer-powered"],
+[class*="powered-by"],
+.footer a[href*="retype"],
+.footer img[src*="retype"],
+.footer svg[class*="retype"],
+.footer div:last-child,
+.footer > div:nth-child(2),
+.footer > div:last-child,
+.footer > div > div:last-child,
+.footer > div > a:last-child,
+.footer > a:last-child,
+footer > div:last-child,
+footer a[href*="retype"],
+footer img[src*="retype"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  position: absolute !important;
+  left: -9999px !important;
+}
+
+/* Target the entire footer if needed */
+.footer {
+  border-top: none !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Hide any element containing "Powered by Retype" text */
+*:contains("Powered by Retype") {
+  display: none !important;
+}
+
+/* Additional approach - inject custom script to remove it */
+body::after {
+  content: "";
+  display: block;
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+/* Force the footer to have only one child - the copyright notice */
+.footer > div:not(:first-child) {
+  display: none !important;
+}
