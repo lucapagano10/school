@@ -7,12 +7,6 @@
     "title": "School of Roxom",
     "label": "Docs"
   },
-  "links": [
-    {
-      "text": "GitHub",
-      "link": "https://github.com/lucapagano10/school"
-    }
-  ],
   "footer": {
     "copyright": "© Copyright {{ year }}. All rights reserved.",
     "poweredByRetype": false,
